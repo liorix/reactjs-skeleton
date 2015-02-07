@@ -1,10 +1,10 @@
 {
   "jspm": {
     "dependencies": {
-      "bootstrap": "jspm:bootstrap@^3.3.1",
-      "react": "jspm:react@^0.12.2",
+      "bootstrap": "^3.3.1",
+      "react": "^0.12.2",
       "react-bootstrap": "npm:react-bootstrap@^0.13.3",
-      "react-router": "jspm:react-router@^0.11.6"
+      "react-router": "^0.11.6"
     }
   },
   "devDependencies": {
